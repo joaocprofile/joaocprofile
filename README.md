@@ -4,8 +4,6 @@ My name is João, I am an old school **Software Engineer**, I started in the 90s
 
 My hyperfocus is now mainly on **Go**, **Typescript / Nodejs**, **Implementation** of _Real Time Performance_, _Scalable Services web-based_, using REST, gRPC and docker with best practices de **Architecture**, Clean code, **Clean Architecture**, Refactoring, Solid, TDD, DDD, Design Patterns.
 
-Architecting, coding, teaching and learning is part of my daily life.
-
 ## 🔭I am currently working on:
 
 - [`Finmily platform`] Startup Education Platform.
