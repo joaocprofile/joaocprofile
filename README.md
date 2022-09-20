@@ -13,8 +13,8 @@ My hyperfocus is now mainly on **Go**, **Typescript / Nodejs**, **Implementation
 ## 🌱 I am currently learning:
 
 - [gRPC](https://grpc.io)
-- [Docker](https://www.docker.com/)
-- [Kubernetes](https://kubernetes.io/pt-br/)
+- [Jenkins](https://www.jenkins.io/)
+- [GCP](https://cloud.google.com/)
 - [AWS](https://aws.amazon.com/pt/)
 
 Feel free to contact me at `joaocarvalhoprofile@gmail.com`
