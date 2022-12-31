@@ -6,9 +6,7 @@ My hyperfocus is now mainly on **Go**, **Typescript / Nodejs**, **Implementation
 
 ## 🔭I am currently working on:
 
-- [`Finmily platform`] Startup Education Platform.
-- [`goH`](https://github.com/joaocprofile/goh) golang package of helpers to aid productivity.
-- [`contablue`](https://github.com/joaocprofile/contablue) Webapp Mine financial management software created in Go using the aforementioned GoH package, for study purposes, using REST, SOLID concepts, Clean architecture.
+- [`bluefamly platform`] Startup Education Platform.
 
 ## 🌱 I am currently learning:
 
