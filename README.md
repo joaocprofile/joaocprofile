@@ -8,11 +8,4 @@ My hyperfocus is now mainly on **Go**, **Typescript / Nodejs**, **Implementation
 
 - [`bluefamly platform`] Startup Education Platform.
 
-## 🌱 I am currently learning:
-
-- [gRPC](https://grpc.io)
-- [Jenkins](https://www.jenkins.io/)
-- [GCP](https://cloud.google.com/)
-- [AWS](https://aws.amazon.com/pt/)
-
 Feel free to contact me at `joaocarvalhoprofile@gmail.com`
