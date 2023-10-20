@@ -10,7 +10,6 @@ My hyperfocus is now mainly on **Go**, **Typescript / Nodejs**, **Implementation
 
 ## 🌱 I am currently learning:
 
-- [gRPC](https://grpc.io)
 - [Jenkins](https://www.jenkins.io/)
 - [GCP](https://cloud.google.com/)
 - [AWS](https://aws.amazon.com/pt/)
