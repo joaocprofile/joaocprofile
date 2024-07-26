@@ -10,7 +10,6 @@ My hyperfocus is now mainly on **Go**, **Rust**, **Typescript / Nodejs / Bun** i
 
 ## 🌱 I am currently learning:
 
-- [Jenkins](https://www.jenkins.io/)
 - [GCP](https://cloud.google.com/)
 - [AWS](https://aws.amazon.com/pt/)
 
